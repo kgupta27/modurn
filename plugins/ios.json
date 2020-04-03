@@ -1,0 +1,109 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-sarriaroman-photoviewer": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "com.unarin.cordova.beacon": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-android-support-gradle-release": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-bluetooth-serial": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-filechooser": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-filepath": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "de.appplant.cordova.plugin.local-notification": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "cordova-plugin-filepicker": {
+      "PACKAGE_NAME": "com.iPhone.modurn"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.iPhone.modurn"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.iPhone.modurn"
+    },
+    "ionic-plugin-deeplinks": {
+      "URL_SCHEME": "modurn",
+      "DEEPLINK_SCHEME": "https",
+      "DEEPLINK_HOST": "modurn.com",
+      "PACKAGE_NAME": "com.iPhone.modurn"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-app-event": {
+      "PACKAGE_NAME": "com.android.modurn"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.android.modurn"
+    }
+  }
+}

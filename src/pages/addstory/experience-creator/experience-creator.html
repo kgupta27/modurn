@@ -1,0 +1,19 @@
+<ion-content class="story-outer">
+
+  <div id="profile-bg" [ngStyle]="{'background-image': 'url(' + user.coverImage +')'}"></div>
+  <div padding class="story-outer">
+    <div class="story-cont">
+      <h1>What is the “Experience” section all about?</h1>
+    </div>
+    <p class="expContent">
+    Storytelling is a wonderful way to share our life’s unique journey. <br><br>
+    "Experiences" is a place to easily capture a memory and create a story using images, dates, location and people whom were present. <br><br>
+    It can be used as a tool to capture a treasured document, family secret recipe, significant time or place in life or an important object which you can build a story around for posterity. <br><br>
+    By sharing experiences, we have the opportunity to connect, understand and feel closer to each other’s journey.
+    </p>
+
+    <button ion-button class="mr-t50 button_color" full color="dark" (click)="addExperience()">CONTINUE</button>
+  </div>
+
+
+</ion-content>
